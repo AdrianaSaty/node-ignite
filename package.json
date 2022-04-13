@@ -1,0 +1,11 @@
+{
+  "name": "node-ignite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AdrianaSaty/node-ignite.git",
+  "author": "AdrianaSaty <adri-saty@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
